@@ -1,5 +1,8 @@
 _repo: Industries-and-Inventions-of-the-Shakers-Shaker-Music_60732
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60732-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Phelps, Lillian
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51109'
     url: http://www.gutenberg.org/2009/agents/51109
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60732#Industries-and-Inventions-of-the-Shakers-Shaker-Music
 gutenberg_issued: '2019-11-19'
 gutenberg_type: Text
 identifiers:
