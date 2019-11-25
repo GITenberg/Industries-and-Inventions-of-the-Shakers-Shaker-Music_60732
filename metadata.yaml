@@ -1,0 +1,23 @@
+_repo: Industries-and-Inventions-of-the-Shakers-Shaker-Music_60732
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Phelps, Lillian
+    gutenberg_agent_id: '51110'
+    url: http://www.gutenberg.org/2009/agents/51110
+  - agent_name: Lindsay, Bertha
+    gutenberg_agent_id: '51109'
+    url: http://www.gutenberg.org/2009/agents/51109
+description: ''
+gutenberg_issued: '2019-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Industries and Inventions of the Shakers; Shaker Music
+url: http://www.gutenberg.org/ebooks/60732
